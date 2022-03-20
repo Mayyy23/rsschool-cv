@@ -24,4 +24,4 @@ alert( result );
 ## Education:
  **Belarusian National Technical University**, *Faculty of Transport Communications*, ***Сonstruction of bridges and tunnels*** 
 ## English:
-**А1** (Beginner и Elementary)
+**А1** (Beginner и Elementary )
